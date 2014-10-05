@@ -54,5 +54,5 @@ def main():
 		else:
 			print "Great, let's play again."
 
-
-main()
+if __name__ == "__main__":
+	main()
